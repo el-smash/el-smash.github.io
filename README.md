@@ -1,21 +1,3 @@
-<html>
-<head>
-<style type="text/css">
-section{color:red;
-font-size:40px;
-}
-
-</style>
-</head>
-
-<body>
-
-<section>
 <h1>Manual de git (man git o)</h1>
 
 <p>Git ayuda a manejar versiones de archivos, ya sea propios o en colaboracion con otros, para auxiliar el trabajo de equipo y organizar el manejo de versiones y cambios.</p>
-</section>
-
-</body>
-
-</html>
